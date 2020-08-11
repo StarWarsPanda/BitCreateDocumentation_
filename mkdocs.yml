@@ -1,0 +1,6 @@
+site_name: BitCreate Documentation
+nav:
+    - Introduction: index.md
+    - Creating a New Project: strtngnwprjct.md
+    - Syntax Refrence: syntxrfrnce.md
+theme: readthedocs
